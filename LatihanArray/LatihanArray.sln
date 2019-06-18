@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LatihanArray", "LatihanArray\LatihanArray.csproj", "{907C573C-2A51-465B-B3D6-06660ECAFF4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{907C573C-2A51-465B-B3D6-06660ECAFF4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{907C573C-2A51-465B-B3D6-06660ECAFF4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{907C573C-2A51-465B-B3D6-06660ECAFF4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{907C573C-2A51-465B-B3D6-06660ECAFF4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CD00BC9-2B8C-44EE-BEA2-6A088F82D853}
+	EndGlobalSection
+EndGlobal

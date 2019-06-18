@@ -1,0 +1,11 @@
+D:\2296\LatihanArray\LatihanArray\bin\Debug\netcoreapp2.0\LatihanArray.deps.json
+D:\2296\LatihanArray\LatihanArray\bin\Debug\netcoreapp2.0\LatihanArray.runtimeconfig.json
+D:\2296\LatihanArray\LatihanArray\bin\Debug\netcoreapp2.0\LatihanArray.runtimeconfig.dev.json
+D:\2296\LatihanArray\LatihanArray\bin\Debug\netcoreapp2.0\LatihanArray.dll
+D:\2296\LatihanArray\LatihanArray\bin\Debug\netcoreapp2.0\LatihanArray.pdb
+D:\2296\LatihanArray\LatihanArray\obj\Debug\netcoreapp2.0\LatihanArray.csprojAssemblyReference.cache
+D:\2296\LatihanArray\LatihanArray\obj\Debug\netcoreapp2.0\LatihanArray.csproj.CoreCompileInputs.cache
+D:\2296\LatihanArray\LatihanArray\obj\Debug\netcoreapp2.0\LatihanArray.AssemblyInfoInputs.cache
+D:\2296\LatihanArray\LatihanArray\obj\Debug\netcoreapp2.0\LatihanArray.AssemblyInfo.cs
+D:\2296\LatihanArray\LatihanArray\obj\Debug\netcoreapp2.0\LatihanArray.dll
+D:\2296\LatihanArray\LatihanArray\obj\Debug\netcoreapp2.0\LatihanArray.pdb
